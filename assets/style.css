@@ -1,0 +1,66 @@
+body {
+    background-image: url("swWallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.starWarsHeader {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    color: floralwhite;
+    margin: 15px;
+    text-align: right;
+}
+
+#Jawa {
+    border: 2px solid white;
+    background-color: rgb(63, 58, 58);
+    width: 200px;
+    height: 225px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+#Ewok {
+    border: 2px solid white;
+    background-color: rgb(63, 58, 58);
+    width: 200px;
+    height: 225px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#tuskanRaider {
+    border: 2px solid white;
+    background-color: rgb(63, 58, 58);
+    width: 200px;
+    height: 225px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+#calamari {
+    border: 2px solid white;
+    background-color: rgb(63, 58, 58);
+    width: 200px;
+    height: 225px;
+    display: inline-block;
+    text-align: center;
+}
+
+#playerChar {
+    width: 300px;
+    height: 300px;
+    border: 5px solid white;
+    float: right;
+}
+
+#attack {
+    margin: 275px 120px ;
+    align-content: center;
+    color: white;
+    background-color: black;
+}
