@@ -55,12 +55,25 @@ body {
     width: 300px;
     height: 300px;
     border: 5px solid white;
-    float: right;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#aiChar {
+    width: 300px;
+    height: 300px;
+    border: 5px solid white;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
 }
 
 #attack {
-    margin: 275px 120px ;
-    align-content: center;
+    margin: 275px 50px;
     color: white;
     background-color: black;
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    color: white;
 }
